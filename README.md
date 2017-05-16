@@ -1,2 +1,2 @@
 # Kitty-Shelter-App
-App for adopting a kitty
+Simple app made in ReactJS for components dependency practicing
